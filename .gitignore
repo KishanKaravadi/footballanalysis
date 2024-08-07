@@ -1,0 +1,4 @@
+input_videos/
+output_videos/
+yolov*
+runs/detect/
