@@ -73,7 +73,6 @@ class TeamAssigner:
 
         # HARDCODED MUST FIX LATER!!!
         if player_id == 64 or player_id == 73:
-            print('hi')
             team_id = 2
 
         self.player_team_dict[player_id] = team_id
