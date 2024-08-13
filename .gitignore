@@ -3,3 +3,4 @@ output_videos/
 yolov*
 runs/detect/
 training/
+training/football_training_yolo_v5.ipynb
